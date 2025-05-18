@@ -1,8 +1,4 @@
 # 📊 Retail Return Risk & Profitability Optimization
-
-> **Final Project | Data Analyst Internship @ Elevate Labs**  
-> **By Asmit Patil** | Skilled in Python, SQL, Power BI
-
 ## 🚀 Project Overview
 
 Retail businesses often struggle with high return rates, low customer lifetime value visibility, and lack of actionable insight into product and customer performance. This project delivers a **business-ready analytical solution** via:
